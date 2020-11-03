@@ -2,7 +2,7 @@
 
 namespace GiocoPlus\Chartjs;
 
-use Encore\Admin\Extension;
+use GiocoPlus\Admin\Extension;
 
 class Chartjs extends Extension
 {

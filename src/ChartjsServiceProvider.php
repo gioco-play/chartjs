@@ -2,7 +2,7 @@
 
 namespace GiocoPlus\Chartjs;
 
-use Encore\Admin\Admin;
+use GiocoPlus\Admin\Admin;
 use Illuminate\Support\ServiceProvider;
 
 class ChartjsServiceProvider extends ServiceProvider
